@@ -2,26 +2,27 @@ console.log('Hello, World!');
 let hername = "Desiree Ann P. Guzman";
 console.log('My name is ' + hername);
 
-console.log('USING VARIABLES');
+console.log('VARIABLES SECTION');
 let name = "Desiree Ann Pabellano Guzman";
-let age = "19";
+let age = "nineteen ";
+let address = "Villa Quirino, San Esteban, Ilocos Sur"
 
-console.log("Hello, World! I am " + name + " and I am " + age + "years old.");
+console.log("Hello, World! I am " + name + " and I am " + age + "years old. " + "From " + address + '.');
 
-console.log("USING NUMBERS");
+console.log("NUMBERS SECTION");
 const x =  15;
 const y = 12;
 
 const quotient = x / y;
 console.log(quotient);
 
-console.log("USING BOOLEANS");
+console.log('BOOLEANS SECTION');
 let a = Boolean ('');
 let b = Boolean ('real!');
 console.log("Am I giving up? "+ a);
 console.log("Am I starting to love programming? " + b);
 
-console.log("USING COMPARISON OPERATORS");
+console.log('COMPARISON OPERATORS SECTION');
 let d = 12
 let g = 15
 
