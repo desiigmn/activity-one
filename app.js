@@ -4,10 +4,10 @@ console.log('My name is ' + hername);
 
 console.log('VARIABLES SECTION');
 let name = "Desiree Ann Pabellano Guzman";
-let age = "nineteen ";
+let age = "nineteen";
 let address = "Villa Quirino, San Esteban, Ilocos Sur";
 
-console.log("Hello, World! I am " + name + " and I am " + age + "years old. " + "From " + address + '.');
+console.log("Hello, World! I am " + name + " and I am " + age + " years old. " + "From " + address + '.');
 
 console.log("NUMBERS SECTION");
 const x =  15;
